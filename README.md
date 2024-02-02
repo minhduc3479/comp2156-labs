@@ -4,4 +4,8 @@ Developer Operations
 
 ### github action CI/CD integration
 
-hello
+Github action and node project example
+
+## References
+
+-- https://nodejs.org/en/download
