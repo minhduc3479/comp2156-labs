@@ -4,7 +4,8 @@
   "description": "Developer Operations",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"No ci required\""
   },
   "repository": {
     "type": "git",
